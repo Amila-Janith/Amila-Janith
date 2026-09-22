@@ -68,18 +68,11 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Followers](https://img.shields.io/github/followers/Amila-Janith?label=Followers&style=for-the-badge&color=0e75b6&logo=github)
-![Stars](https://img.shields.io/github/stars/Amila-Janith?label=Total%20Stars&style=for-the-badge&color=0e75b6&logo=github)
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amila-Janith&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/Amila-Janith" alt="Amila's contribution graph" width="95%"/>
+  <img src="https://raw.githubusercontent.com/Amila-Janith/Amila-Janith/output/github-contribution-grid-snake.svg" alt="Amila's contribution snake" width="95%"/>
 </div>
 
 <br/>
