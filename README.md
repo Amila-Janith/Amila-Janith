@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=520&lines=Associate+Software+Engineer;.NET+8+Core+API+%2B+Angular+18;Learning+the+MERN+Stack;Always+shipping+something+new" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=it22911612&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=Amila-Janith&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -61,15 +61,15 @@
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=it22911612&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=it22911612&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amila-Janith&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=it22911612&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amila-Janith&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=it22911612&theme=tokyo-night&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amila-Janith&theme=tokyo-night&hide_border=true" width="95%"/>
 </div>
 
 <br/>
@@ -77,7 +77,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=it22911612&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Amila-Janith&theme=tokyonight&no-frame=true&row=1&column=6" />
 </div>
 
 <br/>
