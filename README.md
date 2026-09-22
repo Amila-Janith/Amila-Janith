@@ -96,9 +96,9 @@ contact: amilajanith0927@gmail.com
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Amila-Janith&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amila-Janith&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Amila-Janith/Amila-Janith/output/github-contribution-grid-snake.svg" alt="Amila's contribution snake" width="95%"/>
