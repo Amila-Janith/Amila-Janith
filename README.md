@@ -60,8 +60,10 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Amila-Janith&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amila-Janith&layout=compact&theme=tokyonight&hide_border=true" />
+
+![Followers](https://img.shields.io/github/followers/Amila-Janith?label=Followers&style=for-the-badge&color=0e75b6&logo=github)
+![Stars](https://img.shields.io/github/stars/Amila-Janith?label=Total%20Stars&style=for-the-badge&color=0e75b6&logo=github)
+
 </div>
 
 <div align="center">
@@ -69,15 +71,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Amila-Janith&theme=tokyo-night&hide_border=true" width="95%"/>
-</div>
-
-<br/>
-
-## 🏆 Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Amila-Janith&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://ghchart.rshah.org/0e75b6/Amila-Janith" alt="Amila's contribution graph" width="95%"/>
 </div>
 
 <br/>
