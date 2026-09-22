@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5ed&height=200&section=header&text=Amila%20Janith%20Athukorala&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20.NET%20%7C%20Angular%20%7C%20MERN&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:6dd5ed&height=200&section=header&text=Amila%20Janith%20Athukorala&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20.NET%20%7C%20Angular%20%7C%20Azure%20%7C%20CI%2FCD&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=520&lines=Associate+Software+Engineer;.NET+8+Core+API+%2B+Angular+18;Learning+the+MERN+Stack;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=560&lines=Software+Engineer;.NET+Framework+%2B+.NET+Core+%2B+SQL;Angular+%2B+React+%2B+MERN;Azure+%2B+CI%2FCD+Pipelines;Always+shipping+something+new" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Amila-Janith&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
@@ -14,10 +14,11 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Currently working as an **Software Engineer**
-- 🔭 Building things with **.NET 9 Core API** and **Angular 19**
-- 🌱 Leveling up in **MERN Stack** development
-- 💬 Ask me about **C#**, **Java**, **Angular**, or **API integrations**
+- 🏢 Currently working as a **Software Engineer**
+- 🔭 Building things with **.NET Framework**, **.NET Core**, and **SQL**
+- ⚙️ Setting up and maintaining **CI/CD pipelines** on **Azure**
+- 🌐 Frontend work in **Angular** and **React**, plus **Java** and the **MERN** stack
+- 💬 Ask me about **C#**, **Java**, **Angular**, **Azure**, or **API integrations**
 - 📫 Reach me at **[amilajanith0927@gmail.com](mailto:amilajanith0927@gmail.com)**
 
 <br/>
@@ -45,6 +46,13 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Android](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+**Cloud & CI/CD**
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 **Databases & Tools**
 
