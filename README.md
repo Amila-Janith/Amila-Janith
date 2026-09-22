@@ -14,8 +14,8 @@
 
 ## 👨‍💻 About Me
 
-- 🏢 Currently working as an **Associate Software Engineer**
-- 🔭 Building things with **.NET 8 Core API** and **Angular 18**
+- 🏢 Currently working as an **Software Engineer**
+- 🔭 Building things with **.NET 9 Core API** and **Angular 19**
 - 🌱 Leveling up in **MERN Stack** development
 - 💬 Ask me about **C#**, **Java**, **Angular**, or **API integrations**
 - 📫 Reach me at **[amilajanith0927@gmail.com](mailto:amilajanith0927@gmail.com)**
